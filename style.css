@@ -1,0 +1,94 @@
+h1 {
+    color: white;
+    text-align: left;
+    font-family: courier;
+    font-size: 100;
+}
+
+h2 {
+    color: black;
+    font-family: lucida console;
+    font-size: 40
+}
+
+h3 {
+    color: dimgrey;
+    font-family: lucida console;
+    font-size: 20
+    
+}
+
+h4 {
+    text-align: center;
+}
+
+.container {
+    background-color: papayawhip;
+    border-radius: 25px;
+    border-width: 25px;
+    border-color: saddlebrown;
+    
+}
+
+body {
+   background-image: url(hearty.jpg); 
+       background-attachment: fixed;
+   background-repeat: repeat-y,repeat-x,;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    color: white;
+    text-decoration-style: none;
+}
+.boxed {
+  color: powderblue;
+}
+body {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+.left{
+    float: left;
+    margin-left: 20px;
+    position: absolute;
+    
+
+}
+
+.header {
+    padding: 60px;
+  background-color: saddlebrown;
+    margin-bottom: 40px;
+    margin-left: 100;
+    margin-right: 100;
+    
+}
+h5{
+    color: white;
+    font-size: 30px;
+     text-align: right
+}
+img.resize {
+  max-width:20px;
+  max-height:50px;
+}
+.right{
+    margin-left: 310;
+    margin-top: -50;
+    
+}
+.picfriends{
+    float: left;
+    position: absolute;
+}
+.h6{
+    font-size: 10;
+    text-align: left;
+}
